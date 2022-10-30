@@ -280,14 +280,11 @@ img {
 }
 
 .help_institutions_grid {
-    /* display: grid;
-    grid-template-columns: repeat(2, 1fr); */
     display: flex;
     align-content: space-evenly;
     flex-direction: column;
     flex-wrap: wrap;
     width: 100%;
-    /* padding-top: 80px; */
 }
 
 .help_institution {
